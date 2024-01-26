@@ -1,3 +1,7 @@
+# Project Description
+
+This is a React-based weather application utilizing OpenWeatherMap API for real-time weather data and GeoDB API for efficient location autocomplete. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
